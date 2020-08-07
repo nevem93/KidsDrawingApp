@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fl_drawing_view_container_layout_width_height">0dp</dimen>
+    <dimen name="fl_drawing_view_container_margin">5dp</dimen>
+    <dimen name="fl_drawing_view_container_padding">1dp</dimen>
+    <dimen name="ib_layout_height_width">25dp</dimen>
+    <dimen name="ib_layout_margin">2dp</dimen>
+    <dimen name="ib_action_button_width_height">50dp</dimen>
+    <dimen name="ib_action_button_margin">5dp</dimen>
+</resources>

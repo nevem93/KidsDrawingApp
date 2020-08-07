@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="content_description_background_image">background_image</string>
+    <string name="color_palett">color_palett</string>
+    <string name="ib_gallery_content_decription">gallery image</string>
+    <string name="undo_image_content_decription">undo image</string>
+    <string name="brush_image_content_decription">brush image</string>
+    <string name="save_image_content_decription">save image</string>
+</resources>
